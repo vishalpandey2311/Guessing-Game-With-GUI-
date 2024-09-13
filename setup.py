@@ -6,8 +6,8 @@ setup(
     description="A simple guessing game",
     author="Vishal Pandey",
     executables=[
-        Executable("C:/Users/Vishal Pandey/OneDrive/Desktop/Guessing Game/guessing_game.py",
-            icon="C:/Users/Vishal Pandey/OneDrive/Desktop/Guessing Game/project.ico",
+        Executable("guessing_game.py",
+            icon="project.ico",
             shortcut_name="Guessing Game",
             shortcut_dir="DestktopFolder")
         ]
