@@ -1,2 +1,2 @@
 # Guessing-Game-With-GUI-
-This is an enhanced Python-based guessing game featuring an intuitive and visually appealing GUI.
+This code implements a full-screen "Guessing Game" using Python's Tkinter library. The player is prompted to guess a number between 1 and 100, with feedback provided for incorrect guesses. The game features a dynamic UI with a shadowed heading, a gradient-like background, and an input field for the player's guesses. Once the correct number is guessed, a congratulatory message is displayed along with the number of attempts taken. The target number is randomly generated, and the game runs in a graphical window.
